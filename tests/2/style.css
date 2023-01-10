@@ -1,0 +1,30 @@
+body{
+    background-color: crimson;
+    overflow: hidden;
+}
+
+#pagecontainer {
+    background-color: darkcyan;
+    text-align: center;
+    width: 100%;
+    left: 0%;
+    top: 15%;
+    position: absolute;
+    padding-left: 10%
+}
+
+#page {
+    background-color: mediumseagreen;
+    width: 80%;
+    height: 700px;
+
+}
+
+@font-face {
+    font-family: Reef;
+    src: url("IHATCS__.TTF");
+}
+#titre {
+       font-family: Reef;
+       font-size: 100;
+}
